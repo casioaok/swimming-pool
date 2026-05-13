@@ -1,4 +1,3 @@
-// ถ้าใช้ Vite แนะนำให้ใส่บรรทัดนี้ด้วย
 import './style.css'
 
 const ageInput = document.querySelector('#age');
